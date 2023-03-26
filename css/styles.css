@@ -16,7 +16,7 @@ hr {
   height: 0px;
   width: 5%;
 }
-span{
+span {
   font-weight: bolder;
 }
 
@@ -33,7 +33,13 @@ li {
 tr {
   line-height: 1.75rem;
 }
-
+div.intro {
+  margin: 5% 0;
+  display: flex;
+}
+.intro #info {
+  margin: 0 5%;
+}
 .none li {
   list-style: none;
 }
@@ -45,6 +51,26 @@ ul li span,
 .circle li {
   list-style: circle;
 }
-a{
+a {
   text-decoration: none;
+}
+
+@media only screen and (max-width: 900px) {
+  body {
+    margin: 0 5% 0;
+  }
+
+  hr {
+    visibility:visible;
+    margin-bottom: 5%;
+  }
+  div.intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  h1#name, #info{
+    text-align: center;
+  }
 }
