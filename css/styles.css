@@ -61,8 +61,8 @@ a {
   }
 
   hr {
-    visibility:visible;
-    margin-bottom: 5%;
+    visibility: hidden;
+    margin: 5% 0;
   }
   div.intro {
     display: flex;
