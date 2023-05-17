@@ -54,6 +54,17 @@ ul li span,
 a {
   text-decoration: none;
 }
+button{
+  background-color: rgb(57, 162, 214);
+  padding: 7px 10px;
+  border-radius: 7px;
+  box-shadow: none;
+  border: none;
+}
+button a {
+  color: white;
+  font-weight: bold;
+}
 
 @media only screen and (max-width: 900px) {
   body {
