@@ -1,11 +1,11 @@
 
-# Hi, I'm Subha Sadhu! 👋
+# Hi, I'm Subha ! 👋
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhasadhu5@gmail.com)
 ```subhasadhu5@gmail.com```
 
 ## 🚀 About Me
-I'm an aspiring full stack developer 🧑‍💻 . 
+I'm an aspiring Full Stack developer 🧑‍💻 . 
 
 Currently a student 👨‍🎓 I am learning new technologies and improving myself everyday.
 
@@ -63,11 +63,28 @@ Formerly West Bengal University of Technology
 **Developer tools:** Git, Github, VS Code 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## GitHub stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Subha-5&theme=highcontrast&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+
+[![Subha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subha-5)](https://github.com/Subha-5/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subha-5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Some trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Subha-5)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Markdown Badges](https://ileriayo.github.io/markdown-badges/)
+ - [Skill Icons](https://skillicons.dev/)
+ - [GitHub Streak](https://streak-stats.demolab.com/)
+ - [Dynamically generated stats for your github readmes](https://github-readme-stats.vercel.app/)
+ - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Author
