@@ -4,7 +4,7 @@ body {
   /* background-color: #EAF6F6; */
   background-color: blue;
   font-family: "Ubuntu", sans-serif;
-  margin: 0 123px 0;
+  margin: 5% 20%;
 }
 
 hr {
@@ -33,6 +33,7 @@ li {
 tr {
   line-height: 1.75rem;
 }
+
 div.intro {
   margin: 5% 0;
   display: flex;
@@ -70,6 +71,24 @@ div.profiles a img{
   height: 50px;
   padding: 0 12px;
 } 
+
+table {
+  padding: 23px;
+  border-collapse: collapse;
+}
+tr {
+  border-bottom: 1px solid rgb(189, 189, 189);
+}
+
+#work-exp tr>td, th{
+  padding: 13px 34px;
+}
+
+#projects ol>li {
+  padding: 23px 7px 13px;
+  border-bottom: 1px solid rgb(212, 204, 204);
+}
+
 
 @media only screen and (max-width: 900px) {
   body {
