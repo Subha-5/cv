@@ -55,7 +55,7 @@ ul li span,
 a {
   text-decoration: none;
 }
-button{
+button {
   background-color: rgb(57, 162, 214);
   padding: 7px 10px;
   border-radius: 7px;
@@ -67,28 +67,33 @@ button a {
   font-weight: bold;
 }
 
-div.profiles a img{
+div.profiles a img {
   height: 50px;
   padding: 0 12px;
-} 
+}
 
 table {
-  padding: 23px;
   border-collapse: collapse;
+  display: block;
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+  margin: 0 auto;
+  overflow-x: auto;
+  white-space: nowrap;
 }
 tr {
   border-bottom: 1px solid rgb(189, 189, 189);
 }
 
-#work-exp tr>td, th{
-  padding: 13px 34px;
+#work-exp tr > td,
+th {
+  padding: 13px 33px;
 }
 
-#projects ol>li {
+#projects ol > li {
   padding: 23px 7px 13px;
   border-bottom: 1px solid rgb(212, 204, 204);
 }
-
 
 @media only screen and (max-width: 900px) {
   body {
@@ -105,10 +110,25 @@ tr {
     align-items: center;
     justify-content: center;
   }
-  h1#name, #info{
+  h1#name,
+  #info {
     text-align: center;
   }
   div.profiles a img {
     height: 45px;
+  }
+  table {
+    overflow-x: scroll;
+  }
+  #work-exp tr > td,
+  th {
+    padding: 7px 20px;
+  }
+  table {
+    display: block;
+    max-width: fit-content;
+    margin: 0 auto;
+    overflow-x: auto;
+    white-space: wrap;
   }
 }
